@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ED-LetsCode
-- 👀 I’m interested in coding and cybersecurity
+- 👀 I’m interested in Coding and Cybersecurity
 - 📫 Mail: eray.demirel@lets-code.at <br> 
 - 📫 Website: www.lets-code.at
 

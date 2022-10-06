@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ED-LetsCode
 - 👀 I’m interested in coding and cybersecurity
-- 📫 How to reach me => eray.demirel@lets-code.at
+- 📫 Mail: eray.demirel@lets-code.at <br> 
+- 📫 Website: www.lets-code.at
 
 <!---
 ED-LetsCode/ED-LetsCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

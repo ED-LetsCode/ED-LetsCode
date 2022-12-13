@@ -10,8 +10,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ed-letscode&label=Profile%20views&color=930ced&style=flat" alt="ed-letscode" /> </p>
 
 <br>
-<br>
-
 <div align="left">
   
 - 🔭 Website: [www.lets-code.at](www.lets-code.at)
@@ -21,8 +19,6 @@
 - ⚡ Fun fact: **Why does C get all the girls, and Java gets none? Because C doesn’t treat them as objects.**
   
 <div/>
-  
-<br>
 <br>
 
 <h3 align="center">Languages:</h3>

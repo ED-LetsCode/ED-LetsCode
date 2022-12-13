@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="LetsCode2.png" width="700" height="150"/>
+<div/>
+
+<br>
+
 <h1 align="center">Hi 👋, I'm Eray Demirel</h1>
 <h3 align="center">👀 I’m interested in Coding and Cybersecurity</h3>
 
@@ -6,12 +12,16 @@
 <br>
 <br>
 
+<div align="left">
+  
 - 🔭 Website: [www.lets-code.at](www.lets-code.at)
 - 🎥 YouTube: [www.youtube.com/@lets-code2323](www.youtube.com/@lets-code2323)
 - 📫 Email: **eray.demirel@lets-code.at**
 - 🌱 I’m currently learning **Bash, Python**
 - ⚡ Fun fact: **Why does C get all the girls, and Java gets none? Because C doesn’t treat them as objects.**
-
+  
+<div/>
+  
 <br>
 <br>
 

@@ -12,8 +12,8 @@
 <br>
 <div align="left">
   
-- 🔭 Website: [www.lets-code.at](www.lets-code.at)
-- 🎥 YouTube: [www.youtube.com/@lets-code2323](www.youtube.com/@lets-code2323)
+- 🔭 Website: www.lets-code.at
+- 🎥 YouTube: www.youtube.com/@lets-code1
 - 📫 Email: **eray.demirel@lets-code.at**
 - 🌱 I’m currently learning **Bash, Python**
 - ⚡ Fun fact: **Why does C get all the girls, and Java gets none? Because C doesn’t treat them as objects.**
@@ -39,27 +39,3 @@
 <br>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ed-letscode&show_icons=true&locale=en&layout=compact" alt="ed-letscode" /></p>
-
-
-
-<!--
-<div align="center"> <img src="LetsCode2.png" width="700" height="150"/> <div/>
-<h1 align="center">Hi 👋, I'm Eray Demirel</h1>
-<div align="center">
-- 👀 I’m interested in Coding and Cybersecurity <br>
-- 📫 Mail: eray.demirel@lets-code.at <br> 
-- 📫 Website: www.lets-code.at <br>
-- 📫 YouTube: www.youtube.com/@lets-code2323 <br>
- <div/>
-
-
-
-
-ED-LetsCode/ED-LetsCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-
-
-- 💞️ I’m looking to collaborate on ...
-- 🌱 I’m currently learning ...
---->

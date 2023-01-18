@@ -15,7 +15,7 @@
 - 🔭 Website: www.lets-code.at
 - 🎥 YouTube: www.youtube.com/@lets-code1
 - 📫 Email: **eray.demirel@lets-code.at**
-- 🌱 I’m currently learning **Bash, Python**
+  <!-- - 🌱 I’m currently learning **Bash, Python** -->
 - ⚡ Fun fact: **Why does C get all the girls, and Java gets none? Because C doesn’t treat them as objects.**
   
 <div/>

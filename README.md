@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./js.gif" alt="JavaScript GIF" style="width: 100%;">
+</div>
+
 <h1 align="center">Hi 👋, I'm Eray Demirel</h1>
 <h3 align="center">👀 I’m interested in Coding and Cybersecurity</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ed-letscode&label=Profile%20views&color=930ced&style=flat" alt="ed-letscode" /> </p>
@@ -38,6 +42,8 @@
   </a>
 </p>
 
+#
+
 <h3 align="center">Frontend Development:</h3>
 <p align="center">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -54,6 +60,8 @@
   </a>
 </p>
 
+#
+
 <h3 align="center">Database:</h3>
 <p align="center">
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -67,12 +75,16 @@
   </a>
 </p>
 
+#
+
 <h3 align="center">Version Control:</h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
+
+#
 
 <h3 align="center">Fullstack Frameworks:</h3>
 <p align="center">

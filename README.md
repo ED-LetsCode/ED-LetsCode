@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="./js.gif" alt="JavaScript GIF" style="width: 100%;">
+<!--   <img src="./js.gif" alt="JavaScript GIF" style="width: 100%;"> -->
+  <img src="./RickAndMorty.gif" alt="JavaScript GIF" style="width: 100%;">
 </div>
 
 <h1 align="center">Hi 👋, I'm ED</h1>
